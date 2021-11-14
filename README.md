@@ -18,4 +18,4 @@ $ npm init
 $ npm start : le server se lance avec le port 8080
 ~~~
 
-se rendre sur [http://localhost:8000] (http://localhost:8080) pour accéder à l'application
+se rendre sur [http://localhost:8080] (http://localhost:8080) pour accéder à l'application
